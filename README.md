@@ -493,7 +493,7 @@ ai-sales-team-claude/
 ./uninstall.sh
 
 # Or remotely
-curl -fsSL https://raw.githubusercontent.com/zubair-trabzada/ai-sales-team-claude/main/uninstall.sh | bash
+curl -fsSL https://raw.githubusercontent.com/bdogutas-cmyk/ai-sales-team-claude/main/uninstall.sh | bash
 ```
 
 Removes all skills, agents, scripts, and templates from `~/.claude/`. Python packages are not removed.
