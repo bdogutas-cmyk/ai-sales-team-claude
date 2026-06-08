@@ -501,7 +501,7 @@ Removes all skills, agents, scripts, and templates from `~/.claude/`. Python pac
 ---
 
 <p align="center">
-  <strong>MIT License</strong> · Copyright (c) 2026 Zubair Trabzada
+  <strong>MIT License</strong> · Copyright (c) 2026 Bilal Dogutas
   <br><br>
   <a href="https://github.com/zubair-trabzada/ai-sales-team-claude/issues">Report Bug</a> ·
   <a href="https://github.com/zubair-trabzada/ai-sales-team-claude/issues">Request Feature</a>
